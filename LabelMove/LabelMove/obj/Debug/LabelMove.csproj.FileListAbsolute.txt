@@ -1,0 +1,12 @@
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.csproj.AssemblyReference.cache
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.MoveL.resources
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.Properties.Resources.resources
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.csproj.GenerateResource.cache
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\bin\Debug\LabelMove.exe.config
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\bin\Debug\LabelMove.exe
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\bin\Debug\LabelMove.pdb
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.exe
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.pdb
+C:\Users\Carlos.Lopez\Desktop\LabelMove\LabelMove\obj\Debug\LabelMove.Form1.resources
